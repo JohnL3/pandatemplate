@@ -1,8 +1,16 @@
 body,html{
   max-width:940px;
-	height: 100%;
-	margin:auto;
+  height: 100%;
+  margin:auto;
 }
+/* use these for fancy looking code snippest*/
+code {
+  color: royalblue;
+}
+kbd {
+  color: royalblue;
+}
+/* ---------------------*/
 .container{
   width:100%;
 }
